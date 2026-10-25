@@ -1,0 +1,189 @@
+[
+  {
+    "filename": "CDSCO_NSQ_April_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/CDSCO%20NSQ%20ALERT%20FOR%20THE%20MONTH%20OF%20APRIL-2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "0b97f83719198cf8202c5caba4a5feecfd20f49175732cd6ebeef4944e612c82",
+    "actual_sha256": "0b97f83719198cf8202c5caba4a5feecfd20f49175732cd6ebeef4944e612c82",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 154834
+  },
+  {
+    "filename": "CDSCO_NSQ_Dec_2024.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/NSQ%20ALERT%20FOR%20THE%20MONTH%20OF%20DEC-2024.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "84a032123daeadabfb159111c9a053f0a608c7fd8a0d620911403ab636e34ddb",
+    "actual_sha256": "84a032123daeadabfb159111c9a053f0a608c7fd8a0d620911403ab636e34ddb",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 501320
+  },
+  {
+    "filename": "CDSCO_NSQ_Feb_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/NSQ%20ALERT%20FOR%20THE%20MONTH%20OF%20Feb-2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "167371d7ead3be9724f89f9714e2e5a7ac7a06e9303704edd6d37e4bada50064",
+    "actual_sha256": "167371d7ead3be9724f89f9714e2e5a7ac7a06e9303704edd6d37e4bada50064",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 158846
+  },
+  {
+    "filename": "CDSCO_NSQ_Jan_2025_Revised.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/Revise%20Drug%20Alert%20for%20the%20Month%20of%20January2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "ef05f7369d23ef5140330e8d94187689567431be3c15fdea31d6b1a2bc7e8ec1",
+    "actual_sha256": "ef05f7369d23ef5140330e8d94187689567431be3c15fdea31d6b1a2bc7e8ec1",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 51752
+  },
+  {
+    "filename": "CDSCO_NSQ_June_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/CDSCO%20NSQ%20june25.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "e4d55f085dcfb29bb808c55ddd89a374c1f256c4a620af95a2c50144ce410509",
+    "actual_sha256": "e4d55f085dcfb29bb808c55ddd89a374c1f256c4a620af95a2c50144ce410509",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 188795
+  },
+  {
+    "filename": "CDSCO_NSQ_March_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/NSQ%20Alert%20For%20The%20Month%20of%20March-2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "55187790a0bec8596a6275fc05433a52a8adbe98cf46e524f40132833c238fae",
+    "actual_sha256": "55187790a0bec8596a6275fc05433a52a8adbe98cf46e524f40132833c238fae",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 181293
+  },
+  {
+    "filename": "CDSCO_NSQ_May_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/NSQ%20ALERT%20MAY-2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "ea2b9aecce6dcd1073c83dcaa661b87265c648e1096036b9e53f12cb6f727b2a",
+    "actual_sha256": "ea2b9aecce6dcd1073c83dcaa661b87265c648e1096036b9e53f12cb6f727b2a",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 201551
+  },
+  {
+    "filename": "CDSCO_NSQ_Sep_2024.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/NSQ%20Alert%20For%20the%20month%20of%20%20Sept-2024.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "de338eeabfae7599252f4a72ee93c4b4b8d5711bb3fbf421bdf5d4247c347fd5",
+    "actual_sha256": "de338eeabfae7599252f4a72ee93c4b4b8d5711bb3fbf421bdf5d4247c347fd5",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 451933
+  },
+  {
+    "filename": "STATE_NSQ_April_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/stnsqapr25.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "4008fb24706217375e0205f11221fe9981552979baf8c3d9e8ab9715157ffb93",
+    "actual_sha256": "4008fb24706217375e0205f11221fe9981552979baf8c3d9e8ab9715157ffb93",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 352704
+  },
+  {
+    "filename": "STATE_NSQ_Dec_2024.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/STATE%20NSQ%20ALERT%20FOR%20THE%20MONTH%20OF%20DEC-2024.%20%282%29.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "e86b0d9dcffe66f624447322efec9c24d591abb7a53312a350d4888855e25bf5",
+    "actual_sha256": "e86b0d9dcffe66f624447322efec9c24d591abb7a53312a350d4888855e25bf5",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 627484
+  },
+  {
+    "filename": "STATE_NSQ_June_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/STATE%20NSQ%20%20June%20-2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "43de100540526f71bd7555afeecb84ffc64c308e1a564d37c91e0446c2b307c3",
+    "actual_sha256": "43de100540526f71bd7555afeecb84ffc64c308e1a564d37c91e0446c2b307c3",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 424014
+  },
+  {
+    "filename": "STATE_NSQ_May_2025.pdf",
+    "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadAlertsFiles/STATE%20NSQ%20MAY-2025.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "86f85691de1bcac94c6f2d88e570782f32419314f9ee80c0ff812ca353cc0a7d",
+    "actual_sha256": "86f85691de1bcac94c6f2d88e570782f32419314f9ee80c0ff812ca353cc0a7d",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 436033
+  },
+  {
+    "filename": "nppa_ceiling_price_anti_cancer.pdf",
+    "url": "https://www.nppa.gov.in/storage/uploads/pdf/2845-fb-posts-anti-cancer-e3f335bfae6294a35741b326d91a26a5.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "65c33e1776ea8552c41030582e9bce9ffaa8b8be7f12ff4332d26a875d847cfe",
+    "actual_sha256": "65c33e1776ea8552c41030582e9bce9ffaa8b8be7f12ff4332d26a875d847cfe",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 477927
+  },
+  {
+    "filename": "nppa_ceiling_price_anti_diabetes.pdf",
+    "url": "https://www.nppa.gov.in/storage/uploads/pdf/2845-fb-posts-anti-diabetes-a2491c25ce7e20c9200884e1f92cf68a.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "fd23814ae3a0009a0d8d6e14d079ff3e72605edfae6041e3529ccd988f311e62",
+    "actual_sha256": "fd23814ae3a0009a0d8d6e14d079ff3e72605edfae6041e3529ccd988f311e62",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 401697
+  },
+  {
+    "filename": "nppa_ceiling_price_cardio.pdf",
+    "url": "https://www.nppa.gov.in/storage/uploads/pdf/2845-fb-posts-cardio-ea1e3eda2076b6367cf9a9685da62f95.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "8ce7d0a8216104958f049c9442da12f5b4e125b10af45824f2a6cbc7c342095d",
+    "actual_sha256": "8ce7d0a8216104958f049c9442da12f5b4e125b10af45824f2a6cbc7c342095d",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 1016575
+  },
+  {
+    "filename": "nppa_compendium_prices_2022.pdf",
+    "url": "https://www.nppa.gov.in/storage/uploads/pdf/Compendium-Prices-2022pdf-464b22085495ff4e3f8700c0e00cf45d.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "af77341daa9dc5e6a17823dfd62a45c504ac2efb1b8f3a9e0d48404150ff7e57",
+    "actual_sha256": "af77341daa9dc5e6a17823dfd62a45c504ac2efb1b8f3a9e0d48404150ff7e57",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 1315974
+  },
+  {
+    "filename": "pmbi_pmbjp_book.pdf",
+    "url": "https://pmbi.co.in/Data/pmbjp-book.pdf",
+    "tls_ok": true,
+    "tls_error": null,
+    "sha256_match": true,
+    "expected_sha256": "4107646e40bac39b03258e3eafc0b6056afbdaf6716273afd83d793ca5a769a1",
+    "actual_sha256": "4107646e40bac39b03258e3eafc0b6056afbdaf6716273afd83d793ca5a769a1",
+    "status": "TLS_OK_HASH_MATCH",
+    "size_bytes": 4933824
+  }
+]

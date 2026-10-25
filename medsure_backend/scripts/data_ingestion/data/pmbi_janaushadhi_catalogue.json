@@ -1,0 +1,1179 @@
+[
+  {
+    "drug_code": "PMBI-G0001",
+    "generic_name": "Paracetamol IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 5.5,
+    "therapeutic_category": [
+      "Analgesic",
+      "Antipyretic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0002",
+    "generic_name": "Paracetamol IP",
+    "dosage_form": "Tablet",
+    "strength": "650 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 9.2,
+    "therapeutic_category": [
+      "Analgesic",
+      "Antipyretic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0003",
+    "generic_name": "Amoxicillin Trihydrate IP",
+    "dosage_form": "Capsule",
+    "strength": "500 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 38.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Penicillin"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0004",
+    "generic_name": "Amoxicillin and Potassium Clavulanate IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg + 125 mg",
+    "pack_size": 6,
+    "unit": "strip",
+    "mrp": 52.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Beta-lactamase inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0005",
+    "generic_name": "Azithromycin Dihydrate IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg",
+    "pack_size": 3,
+    "unit": "strip",
+    "mrp": 32.5,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Macrolide"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0006",
+    "generic_name": "Ciprofloxacin Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 21.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Fluoroquinolone"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0007",
+    "generic_name": "Metformin Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 8.0,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "Biguanide"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0008",
+    "generic_name": "Metformin Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "1000 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 14.5,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "Biguanide"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0009",
+    "generic_name": "Glimepiride IP",
+    "dosage_form": "Tablet",
+    "strength": "1 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 6.5,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "Sulfonylurea"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0010",
+    "generic_name": "Glimepiride IP",
+    "dosage_form": "Tablet",
+    "strength": "2 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 9.8,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "Sulfonylurea"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0011",
+    "generic_name": "Atorvastatin Calcium IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 12.0,
+    "therapeutic_category": [
+      "Antihyperlipidemic",
+      "Statin"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0012",
+    "generic_name": "Atorvastatin Calcium IP",
+    "dosage_form": "Tablet",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 22.0,
+    "therapeutic_category": [
+      "Antihyperlipidemic",
+      "Statin"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0013",
+    "generic_name": "Telmisartan IP",
+    "dosage_form": "Tablet",
+    "strength": "40 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 15.0,
+    "therapeutic_category": [
+      "Antihypertensive",
+      "ARB"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0014",
+    "generic_name": "Amlodipine Besylate IP",
+    "dosage_form": "Tablet",
+    "strength": "5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 4.5,
+    "therapeutic_category": [
+      "Antihypertensive",
+      "Calcium Channel Blocker"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0015",
+    "generic_name": "Pantoprazole Sodium IP",
+    "dosage_form": "Enteric Coated Tablet",
+    "strength": "40 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 11.5,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "Proton Pump Inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0016",
+    "generic_name": "Omeprazole IP",
+    "dosage_form": "Capsule",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 9.0,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "Proton Pump Inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0017",
+    "generic_name": "Ranitidine Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "150 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 5.0,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "H2 Receptor Blocker"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0018",
+    "generic_name": "Cetirizine Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 4.0,
+    "therapeutic_category": [
+      "Antihistamine",
+      "Antiallergic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0019",
+    "generic_name": "Levocetirizine Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 6.5,
+    "therapeutic_category": [
+      "Antihistamine",
+      "Antiallergic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0020",
+    "generic_name": "Montelukast Sodium and Levocetirizine Dihydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg + 5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 24.0,
+    "therapeutic_category": [
+      "Respiratory",
+      "Antiallergic",
+      "Antiasthmatic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0021",
+    "generic_name": "Ibuprofen and Paracetamol IP",
+    "dosage_form": "Tablet",
+    "strength": "400 mg + 325 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 8.5,
+    "therapeutic_category": [
+      "Analgesic",
+      "NSAID",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0022",
+    "generic_name": "Diclofenac Sodium IP",
+    "dosage_form": "Enteric Coated Tablet",
+    "strength": "50 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 4.2,
+    "therapeutic_category": [
+      "Analgesic",
+      "NSAID",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0023",
+    "generic_name": "Aceclofenac and Paracetamol IP",
+    "dosage_form": "Tablet",
+    "strength": "100 mg + 325 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 14.0,
+    "therapeutic_category": [
+      "Analgesic",
+      "NSAID"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0024",
+    "generic_name": "Aspirin IP (Gastro-resistant)",
+    "dosage_form": "Enteric Coated Tablet",
+    "strength": "75 mg",
+    "pack_size": 14,
+    "unit": "strip",
+    "mrp": 3.8,
+    "therapeutic_category": [
+      "Antiplatelet",
+      "Cardiovascular"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0025",
+    "generic_name": "Clopidogrel IP",
+    "dosage_form": "Tablet",
+    "strength": "75 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 16.0,
+    "therapeutic_category": [
+      "Antiplatelet",
+      "Cardiovascular"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0026",
+    "generic_name": "Calcium Carbonate and Vitamin D3 IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg + 250 IU",
+    "pack_size": 15,
+    "unit": "tablet",
+    "mrp": 18.0,
+    "therapeutic_category": [
+      "Nutritional Supplement",
+      "Bone Health"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0027",
+    "generic_name": "Vitamin B Complex with Vitamin C IP",
+    "dosage_form": "Capsule",
+    "strength": "Therapeutic B-Complex",
+    "pack_size": 20,
+    "unit": "capsule",
+    "mrp": 12.0,
+    "therapeutic_category": [
+      "Vitamin Supplement",
+      "Multivitamin"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0028",
+    "generic_name": "Ascorbic Acid IP (Vitamin C)",
+    "dosage_form": "Chewable Tablet",
+    "strength": "500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 6.0,
+    "therapeutic_category": [
+      "Vitamin Supplement",
+      "Antioxidant"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0029",
+    "generic_name": "Albendazole IP",
+    "dosage_form": "Chewable Tablet",
+    "strength": "400 mg",
+    "pack_size": 1,
+    "unit": "tablet",
+    "mrp": 4.5,
+    "therapeutic_category": [
+      "Anthelmintic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0030",
+    "generic_name": "Doxycycline Hydrochloride IP",
+    "dosage_form": "Capsule",
+    "strength": "100 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 12.5,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Tetracycline"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0031",
+    "generic_name": "Salbutamol Inhaler IP",
+    "dosage_form": "Inhaler",
+    "strength": "100 mcg / dose",
+    "pack_size": 200,
+    "unit": "doses",
+    "mrp": 68.0,
+    "therapeutic_category": [
+      "Bronchodilator",
+      "Antiasthmatic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0032",
+    "generic_name": "Cefixime Trihydrate IP",
+    "dosage_form": "Tablet",
+    "strength": "200 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 45.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Cephalosporin (3rd Gen)"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0033",
+    "generic_name": "Metronidazole IP",
+    "dosage_form": "Tablet",
+    "strength": "400 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 6.8,
+    "therapeutic_category": [
+      "Antiamoebic",
+      "Antiprotozoal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0034",
+    "generic_name": "Ondansetron Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "4 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 7.5,
+    "therapeutic_category": [
+      "Antiemetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0035",
+    "generic_name": "Oral Rehydration Salts IP (WHO Formula)",
+    "dosage_form": "Powder",
+    "strength": "21.8 g sachet",
+    "pack_size": 1,
+    "unit": "sachet",
+    "mrp": 8.0,
+    "therapeutic_category": [
+      "Electrolyte Replenisher"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0036",
+    "generic_name": "Cetirizine Dihydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 3.5,
+    "therapeutic_category": [
+      "Antihistamine",
+      "Antiallergic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0037",
+    "generic_name": "Levocetirizine Dihydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 6.5,
+    "therapeutic_category": [
+      "Antihistamine",
+      "Antiallergic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0038",
+    "generic_name": "Montelukast Sodium and Levocetirizine Dihydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg + 5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 21.0,
+    "therapeutic_category": [
+      "Respiratory",
+      "Antiasthmatic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0039",
+    "generic_name": "Domperidone IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 4.8,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "Antiemetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0040",
+    "generic_name": "Ondansetron Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "4 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 6.2,
+    "therapeutic_category": [
+      "Antiemetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0041",
+    "generic_name": "Ranitidine Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "150 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 5.0,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "H2 Blocker"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0042",
+    "generic_name": "Omeprazole IP",
+    "dosage_form": "Capsule",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 8.5,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "Proton Pump Inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0043",
+    "generic_name": "Rabeprazole Sodium IP",
+    "dosage_form": "Tablet",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 11.0,
+    "therapeutic_category": [
+      "Gastrointestinal",
+      "Proton Pump Inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0044",
+    "generic_name": "Pantoprazole Sodium and Domperidone IP",
+    "dosage_form": "Capsule",
+    "strength": "40 mg + 30 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 19.5,
+    "therapeutic_category": [
+      "Gastrointestinal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0045",
+    "generic_name": "Rabeprazole Sodium and Domperidone IP",
+    "dosage_form": "Capsule",
+    "strength": "20 mg + 30 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 22.0,
+    "therapeutic_category": [
+      "Gastrointestinal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0046",
+    "generic_name": "Losartan Potassium IP",
+    "dosage_form": "Tablet",
+    "strength": "50 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 11.5,
+    "therapeutic_category": [
+      "Cardiovascular",
+      "Antihypertensive"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0047",
+    "generic_name": "Telmisartan and Amlodipine IP",
+    "dosage_form": "Tablet",
+    "strength": "40 mg + 5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 16.0,
+    "therapeutic_category": [
+      "Cardiovascular",
+      "Antihypertensive"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0048",
+    "generic_name": "Telmisartan and Hydrochlorothiazide IP",
+    "dosage_form": "Tablet",
+    "strength": "40 mg + 12.5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 15.5,
+    "therapeutic_category": [
+      "Cardiovascular",
+      "Antihypertensive"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0049",
+    "generic_name": "Olmesartan Medoxomil IP",
+    "dosage_form": "Tablet",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 18.0,
+    "therapeutic_category": [
+      "Cardiovascular",
+      "Antihypertensive"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0050",
+    "generic_name": "Rosuvastatin Calcium IP",
+    "dosage_form": "Tablet",
+    "strength": "10 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 19.0,
+    "therapeutic_category": [
+      "Cardiovascular",
+      "Antihyperlipidemic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0051",
+    "generic_name": "Rosuvastatin Calcium IP",
+    "dosage_form": "Tablet",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 34.0,
+    "therapeutic_category": [
+      "Cardiovascular",
+      "Antihyperlipidemic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0052",
+    "generic_name": "Glimepiride IP",
+    "dosage_form": "Tablet",
+    "strength": "1 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 4.2,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "Sulfonylurea"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0053",
+    "generic_name": "Glimepiride IP",
+    "dosage_form": "Tablet",
+    "strength": "2 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 7.0,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "Sulfonylurea"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0054",
+    "generic_name": "Glimepiride and Metformin Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "1 mg + 500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 12.0,
+    "therapeutic_category": [
+      "Antidiabetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0055",
+    "generic_name": "Glimepiride and Metformin Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "2 mg + 500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 16.5,
+    "therapeutic_category": [
+      "Antidiabetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0056",
+    "generic_name": "Voglibose IP",
+    "dosage_form": "Tablet",
+    "strength": "0.2 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 9.0,
+    "therapeutic_category": [
+      "Antidiabetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0057",
+    "generic_name": "Voglibose IP",
+    "dosage_form": "Tablet",
+    "strength": "0.3 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 12.5,
+    "therapeutic_category": [
+      "Antidiabetic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0058",
+    "generic_name": "Teneligliptin Hydrobromide Hydrate",
+    "dosage_form": "Tablet",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 25.0,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "DPP-4 Inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0059",
+    "generic_name": "Dapagliflozin Propanediol",
+    "dosage_form": "Tablet",
+    "strength": "10 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 35.0,
+    "therapeutic_category": [
+      "Antidiabetic",
+      "SGLT2 Inhibitor"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0060",
+    "generic_name": "Albendazole IP",
+    "dosage_form": "Tablet",
+    "strength": "400 mg",
+    "pack_size": 1,
+    "unit": "tablet",
+    "mrp": 3.0,
+    "therapeutic_category": [
+      "Anthelmintic"
+    ],
+    "prescription_status": "otc"
+  },
+  {
+    "drug_code": "PMBI-G0061",
+    "generic_name": "Ivermectin IP",
+    "dosage_form": "Tablet",
+    "strength": "12 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 22.0,
+    "therapeutic_category": [
+      "Antiparasitic"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0062",
+    "generic_name": "Fluconazole IP",
+    "dosage_form": "Tablet",
+    "strength": "150 mg",
+    "pack_size": 1,
+    "unit": "tablet",
+    "mrp": 5.0,
+    "therapeutic_category": [
+      "Antifungal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0063",
+    "generic_name": "Itraconazole IP",
+    "dosage_form": "Capsule",
+    "strength": "100 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 48.0,
+    "therapeutic_category": [
+      "Antifungal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0064",
+    "generic_name": "Itraconazole IP",
+    "dosage_form": "Capsule",
+    "strength": "200 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 88.0,
+    "therapeutic_category": [
+      "Antifungal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0065",
+    "generic_name": "Terbinafine Hydrochloride IP",
+    "dosage_form": "Tablet",
+    "strength": "250 mg",
+    "pack_size": 7,
+    "unit": "tablet",
+    "mrp": 45.0,
+    "therapeutic_category": [
+      "Antifungal"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0066",
+    "generic_name": "Ofloxacin IP",
+    "dosage_form": "Tablet",
+    "strength": "200 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 18.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Fluoroquinolone"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0067",
+    "generic_name": "Levofloxacin IP",
+    "dosage_form": "Tablet",
+    "strength": "500 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 28.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Fluoroquinolone"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0068",
+    "generic_name": "Cefixime Trihydrate IP",
+    "dosage_form": "Tablet",
+    "strength": "200 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 42.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Cephalosporin"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0069",
+    "generic_name": "Cefpodoxime Proxetil IP",
+    "dosage_form": "Tablet",
+    "strength": "200 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 65.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Cephalosporin"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0070",
+    "generic_name": "Doxycycline Hyclate IP",
+    "dosage_form": "Capsule",
+    "strength": "100 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 11.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Tetracycline"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0071",
+    "generic_name": "Clindamycin Hydrochloride IP",
+    "dosage_form": "Capsule",
+    "strength": "300 mg",
+    "pack_size": 10,
+    "unit": "capsule",
+    "mrp": 55.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Lincosamide"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0072",
+    "generic_name": "Ceftriaxone Sodium IP",
+    "dosage_form": "Injection",
+    "strength": "1 g",
+    "pack_size": 1,
+    "unit": "vial",
+    "mrp": 28.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Cephalosporin"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0073",
+    "generic_name": "Amikacin Sulphate IP",
+    "dosage_form": "Injection",
+    "strength": "500 mg",
+    "pack_size": 1,
+    "unit": "vial",
+    "mrp": 24.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Aminoglycoside"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0074",
+    "generic_name": "Piperacillin and Tazobactam IP",
+    "dosage_form": "Injection",
+    "strength": "4.5 g",
+    "pack_size": 1,
+    "unit": "vial",
+    "mrp": 115.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Beta-lactam"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0075",
+    "generic_name": "Meropenem IP",
+    "dosage_form": "Injection",
+    "strength": "1 g",
+    "pack_size": 1,
+    "unit": "vial",
+    "mrp": 210.0,
+    "therapeutic_category": [
+      "Antibiotic",
+      "Carbapenem"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0076",
+    "generic_name": "Methylprednisolone IP",
+    "dosage_form": "Tablet",
+    "strength": "4 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 12.0,
+    "therapeutic_category": [
+      "Corticosteroid",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0077",
+    "generic_name": "Methylprednisolone IP",
+    "dosage_form": "Tablet",
+    "strength": "16 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 36.0,
+    "therapeutic_category": [
+      "Corticosteroid",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0078",
+    "generic_name": "Prednisolone IP",
+    "dosage_form": "Tablet",
+    "strength": "5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 4.5,
+    "therapeutic_category": [
+      "Corticosteroid",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0079",
+    "generic_name": "Prednisolone IP",
+    "dosage_form": "Tablet",
+    "strength": "20 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 12.5,
+    "therapeutic_category": [
+      "Corticosteroid",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0080",
+    "generic_name": "Dexamethasone IP",
+    "dosage_form": "Tablet",
+    "strength": "0.5 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 2.2,
+    "therapeutic_category": [
+      "Corticosteroid",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0081",
+    "generic_name": "Deflazacort",
+    "dosage_form": "Tablet",
+    "strength": "6 mg",
+    "pack_size": 10,
+    "unit": "tablet",
+    "mrp": 28.0,
+    "therapeutic_category": [
+      "Corticosteroid",
+      "Anti-inflammatory"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0082",
+    "generic_name": "Thyroxine Sodium IP",
+    "dosage_form": "Tablet",
+    "strength": "25 mcg",
+    "pack_size": 100,
+    "unit": "tablet",
+    "mrp": 48.0,
+    "therapeutic_category": [
+      "Endocrine",
+      "Thyroid Hormone"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0083",
+    "generic_name": "Thyroxine Sodium IP",
+    "dosage_form": "Tablet",
+    "strength": "50 mcg",
+    "pack_size": 100,
+    "unit": "tablet",
+    "mrp": 55.0,
+    "therapeutic_category": [
+      "Endocrine",
+      "Thyroid Hormone"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0084",
+    "generic_name": "Thyroxine Sodium IP",
+    "dosage_form": "Tablet",
+    "strength": "100 mcg",
+    "pack_size": 100,
+    "unit": "tablet",
+    "mrp": 65.0,
+    "therapeutic_category": [
+      "Endocrine",
+      "Thyroid Hormone"
+    ],
+    "prescription_status": "prescription"
+  },
+  {
+    "drug_code": "PMBI-G0085",
+    "generic_name": "Cholecalciferol IP (Vitamin D3)",
+    "dosage_form": "Capsule",
+    "strength": "60000 IU",
+    "pack_size": 4,
+    "unit": "capsule",
+    "mrp": 18.0,
+    "therapeutic_category": [
+      "Nutritional Supplement",
+      "Vitamin"
+    ],
+    "prescription_status": "otc"
+  }
+]

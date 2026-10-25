@@ -1,0 +1,79 @@
+{
+  "source_file": "CDSCO_NSQ_Jan_2025_Revised.pdf",
+  "category": "cdsco",
+  "total_pages": 1,
+  "total_data_rows": 1,
+  "total_skipped_rows": 1,
+  "first_5_rows": [
+    {
+      "page": 1,
+      "s_no": 23,
+      "raw_row": [
+        "23.",
+        "Dmex Colecalciferol (Vitamin D3) Tablets B.P.",
+        "4D077301",
+        "09/2023",
+        "08/2026",
+        "M/s Aeron Lifesciences Pvt Ltd, Kathwada, Ahmedabad as per the Investigation Report",
+        "Assay of Cholecalciferol",
+        "Drugs Inspector, Ahmedabad Zone",
+        "The actual manufacturer (as per label claim) has informed that the impugned batch of the product has not been manufactured by them and that it is a spurious drug.",
+        "As per the Investigation report the product is purported to be Spurious."
+      ]
+    }
+  ],
+  "last_5_rows": [
+    {
+      "page": 1,
+      "s_no": 23,
+      "raw_row": [
+        "23.",
+        "Dmex Colecalciferol (Vitamin D3) Tablets B.P.",
+        "4D077301",
+        "09/2023",
+        "08/2026",
+        "M/s Aeron Lifesciences Pvt Ltd, Kathwada, Ahmedabad as per the Investigation Report",
+        "Assay of Cholecalciferol",
+        "Drugs Inspector, Ahmedabad Zone",
+        "The actual manufacturer (as per label claim) has informed that the impugned batch of the product has not been manufactured by them and that it is a spurious drug.",
+        "As per the Investigation report the product is purported to be Spurious."
+      ]
+    }
+  ],
+  "data_rows": [
+    {
+      "page": 1,
+      "s_no": 23,
+      "raw_row": [
+        "23.",
+        "Dmex Colecalciferol (Vitamin D3) Tablets B.P.",
+        "4D077301",
+        "09/2023",
+        "08/2026",
+        "M/s Aeron Lifesciences Pvt Ltd, Kathwada, Ahmedabad as per the Investigation Report",
+        "Assay of Cholecalciferol",
+        "Drugs Inspector, Ahmedabad Zone",
+        "The actual manufacturer (as per label claim) has informed that the impugned batch of the product has not been manufactured by them and that it is a spurious drug.",
+        "As per the Investigation report the product is purported to be Spurious."
+      ]
+    }
+  ],
+  "skipped_sample": [
+    {
+      "page": 1,
+      "reason": "header",
+      "content": [
+        "S.No.",
+        "Name of Drugs/medical device/cosmetics",
+        "Batch No.",
+        "Date of Manufacture",
+        "Date of Expiry",
+        "Manufactured By",
+        "Reason for failure",
+        "Drawn By",
+        "Firm\u2019s reply",
+        "Remarks"
+      ]
+    }
+  ]
+}

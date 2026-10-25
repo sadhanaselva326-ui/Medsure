@@ -1,0 +1,1058 @@
+{
+  "source_file": "CDSCO_NSQ_April_2025.pdf",
+  "category": "cdsco",
+  "total_pages": 7,
+  "total_data_rows": 60,
+  "total_skipped_rows": 6,
+  "first_5_rows": [
+    {
+      "page": 1,
+      "s_no": 1,
+      "raw_row": [
+        "1.",
+        "Carboxymethyl Cellulose Sodium Eye Drops IP",
+        "MO24H27",
+        "08/2024",
+        "07/2026",
+        "M/s. Martin & Brown Bio- sciences Pvt. Ltd. K.no. 918/419 Malkumajra Nalagarh Road Baddi, Dist. Solan (H.P.)-173205",
+        "pH, Sterility and Assay",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 2,
+      "raw_row": [
+        "2.",
+        "Carboxymethyl Cellulose Sodium Eye Drops IP",
+        "MO24H21",
+        "08/2024",
+        "07/2026",
+        "M/s. Martin & Brown Bio- sciences Pvt. Ltd. K.no. 918/419 Malkumajra Nalagarh Road Baddi, Dist. Solan (H.P.)-173205",
+        "pH, Sterility and Assay",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 3,
+      "raw_row": [
+        "3.",
+        "Carboxymethyl Cellulose Sodium Eye Drops IP",
+        "MO24H22",
+        "08/2024",
+        "07/2026",
+        "M/s. Martin & Brown Bio- sciences Pvt. Ltd. K.no. 918/419 Malkumajra Nalagarh Road Baddi, Dist. Solan (H.P.)-173205",
+        "pH, Sterility and Assay",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 4,
+      "raw_row": [
+        "4.",
+        "Bupivacaine Hydrochloride Injection IP (Bupicain-0.5%)",
+        "BPC24007",
+        "12/2024",
+        "10/2026",
+        "M/s. Themis Medicare Limited, Sector 6A, Plot No.16,17,&18, IIE, SIDCUL Haridwar - 249403, Uttarakhand",
+        "Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 5,
+      "raw_row": [
+        "5.",
+        "Ceftriaxone and Sulbactam for Injection IP (CEFRITZ S 1.5)",
+        "24DH13V",
+        "08/2024",
+        "07/2026",
+        "M/s. MMG Healthcare, Trilokpur Road, Kala Amb, Distt. Sirmour- 173030 (H.P.)",
+        "Bacterial endotoxins for Sterile water for Injection.",
+        "CDL, Kolkata"
+      ]
+    }
+  ],
+  "last_5_rows": [
+    {
+      "page": 7,
+      "s_no": 56,
+      "raw_row": [
+        "56.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4982",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 57,
+      "raw_row": [
+        "57.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4978",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 58,
+      "raw_row": [
+        "58.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4988",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Particulate matter, Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 59,
+      "raw_row": [
+        "59.",
+        "Doxycycline Capsules IP 100 mg",
+        "B240705",
+        "05/2024",
+        "04/2026",
+        "M/s.Bochem Healthcare Pvt. Ltd., 83-84, Industrial Area, Dewas Road, Nagziri, Ujjain 45601-(M.P.) India",
+        "Dissolution of Doxycycline",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 60,
+      "raw_row": [
+        "60.",
+        "Levetiracetam Tablets IP 500 mg",
+        "LMT241488",
+        "12/2024",
+        "11/2026",
+        "M/s.Life Max Cancer Laboratories Plot No. 106 & 106A, Sector-6A, IIE, SIDCUL, Haridwar-249403 (U.K)",
+        "Dissolution",
+        "CDTL, Indore"
+      ]
+    }
+  ],
+  "data_rows": [
+    {
+      "page": 1,
+      "s_no": 1,
+      "raw_row": [
+        "1.",
+        "Carboxymethyl Cellulose Sodium Eye Drops IP",
+        "MO24H27",
+        "08/2024",
+        "07/2026",
+        "M/s. Martin & Brown Bio- sciences Pvt. Ltd. K.no. 918/419 Malkumajra Nalagarh Road Baddi, Dist. Solan (H.P.)-173205",
+        "pH, Sterility and Assay",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 2,
+      "raw_row": [
+        "2.",
+        "Carboxymethyl Cellulose Sodium Eye Drops IP",
+        "MO24H21",
+        "08/2024",
+        "07/2026",
+        "M/s. Martin & Brown Bio- sciences Pvt. Ltd. K.no. 918/419 Malkumajra Nalagarh Road Baddi, Dist. Solan (H.P.)-173205",
+        "pH, Sterility and Assay",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 3,
+      "raw_row": [
+        "3.",
+        "Carboxymethyl Cellulose Sodium Eye Drops IP",
+        "MO24H22",
+        "08/2024",
+        "07/2026",
+        "M/s. Martin & Brown Bio- sciences Pvt. Ltd. K.no. 918/419 Malkumajra Nalagarh Road Baddi, Dist. Solan (H.P.)-173205",
+        "pH, Sterility and Assay",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 4,
+      "raw_row": [
+        "4.",
+        "Bupivacaine Hydrochloride Injection IP (Bupicain-0.5%)",
+        "BPC24007",
+        "12/2024",
+        "10/2026",
+        "M/s. Themis Medicare Limited, Sector 6A, Plot No.16,17,&18, IIE, SIDCUL Haridwar - 249403, Uttarakhand",
+        "Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 5,
+      "raw_row": [
+        "5.",
+        "Ceftriaxone and Sulbactam for Injection IP (CEFRITZ S 1.5)",
+        "24DH13V",
+        "08/2024",
+        "07/2026",
+        "M/s. MMG Healthcare, Trilokpur Road, Kala Amb, Distt. Sirmour- 173030 (H.P.)",
+        "Bacterial endotoxins for Sterile water for Injection.",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 6,
+      "raw_row": [
+        "6.",
+        "Pantoprazole Gastro- Resistant Tablets IP 40 mg.",
+        "MT240578",
+        "08/2024",
+        "07/2026",
+        "M/s. Mancare Laboratories Pvt. Ltd., Plot No-11, Pharmacity, Selaqui, Dehradun, Uttarkhand-248011",
+        "Dissolution in Buffer Stage",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 7,
+      "raw_row": [
+        "7.",
+        "Oxcarbazepine Tablets IP 300 mg (OXCARBAJAJ 300)",
+        "OXB02I24",
+        "09/2024",
+        "08/2026",
+        "M/s. Bajaj Healthcare Ltd. R.S. No. 1818, Manjusar-Savli Road, At & Post Manjusar, Tal Savli, Dist. Vadodara-391775, Gujarat, India",
+        "Dissolution",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 8,
+      "raw_row": [
+        "8.",
+        "Calcium & Vitamin D3 Tablets IP",
+        "QT23136",
+        "11/2024",
+        "10/2026",
+        "M/s. Quest Laboratories Limited, Plot No.-45, Sector-III, Pithampur, Dist-Dhar-454775 (M. P.)",
+        "Dissolution (for Calcium) and Assay of",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 9,
+      "raw_row": [
+        "9.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1289",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 10,
+      "raw_row": [
+        "10.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1292",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 11,
+      "raw_row": [
+        "11.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1286",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 12,
+      "raw_row": [
+        "12.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1298",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 13,
+      "raw_row": [
+        "13.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1301",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 14,
+      "raw_row": [
+        "14.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1302",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 15,
+      "raw_row": [
+        "15.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1303",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 16,
+      "raw_row": [
+        "16.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1304",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 17,
+      "raw_row": [
+        "17.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1305",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 18,
+      "raw_row": [
+        "18.",
+        "Calcium Carbonate 500 mg +VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1306",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod 389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 19,
+      "raw_row": [
+        "19.",
+        "Amikacin Sulphate Injection I.P. 500 mg",
+        "24AM18",
+        "10/2024",
+        "09/2026",
+        "M/s. SAI Parenterals Limited, D1 &D4, Survey No.280, Phase-V, IDA, Jeedimetla,",
+        "Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 20,
+      "raw_row": [
+        "20.",
+        "Sucralfate & Oxetacaine Suspension (Rabeflux Suspension)",
+        "RBLS-02501",
+        "01/2025",
+        "12/2026",
+        "M/s. Tidal Laboratories Pvt. Ltd., Patch-5, Phase-II, Gowalthai, Distt. Bilaspur- 174201 (H.P.), INDIA",
+        "Identification, Assay of Sucralfate and Assay of Oxetacaine",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 21,
+      "raw_row": [
+        "21.",
+        "Iron Sucrose Injection USP 100mg/5ml",
+        "24RS15",
+        "12/2024",
+        "11/2026",
+        "M/s. SAI Parenterals Limited, D1 &D4, Survey No.280, Phase-V, IDA, Jeedimetla, Hyderabad-500055, TS",
+        "pH and Alkalinity",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 22,
+      "raw_row": [
+        "22.",
+        "Iron Sucrose Injection USP 100mg/5ml",
+        "24RS03",
+        "01/2024",
+        "12/2025",
+        "M/s. SAI Parenterals Limited, D1 &D4, Survey No.280, Phase-V, IDA, Jeedimetla, Hyderabad-500055, TS",
+        "pH",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 23,
+      "raw_row": [
+        "23.",
+        "Iron Sucrose Injection USP 100 mg/5ml",
+        "24RS06",
+        "02/2024",
+        "01/2026",
+        "M/s. SAI Parenterals Limited, D1 &D4, Survey No. 280, Phase-V, IDA, Jeedimetla, Hyderabad-500055, TS",
+        "pH and Alkalinity",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 24,
+      "raw_row": [
+        "24.",
+        "Compound Sodium Lactate Injection IP (RINGER-LACTATE SOLUTION FOR INJECTION ) (RL)",
+        "1I245476",
+        "09/2024",
+        "08/2027",
+        "M/s. Aculife Healthcare Pvt. Ltd., Sachana, Gujarat- 382150, India",
+        "Sterility",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 25,
+      "raw_row": [
+        "25.",
+        "Rifampicin, Isoniazid and Ethmbutol Hydrochloride Tablets IP",
+        "TR-820008",
+        "07/2024",
+        "06/2026",
+        "M/s. Centurion Remedies Pvt. Ltd., G/5,6, B.I.D.C. Gorwa, Vadodara -390016",
+        "Assay of Rifampicin",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 26,
+      "raw_row": [
+        "26.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1294",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 27,
+      "raw_row": [
+        "27.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1299",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 28,
+      "raw_row": [
+        "28.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU Tablets IP (CALXIA 500 )",
+        "GTL1300",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 29,
+      "raw_row": [
+        "29.",
+        "Ondansetron Oral Solution I.P. 2mg/5ml",
+        "ONES-1004",
+        "09/2024",
+        "08/2026",
+        "M/s. Wings Biotech, 43 and 44, HPSIDC, Industrial Area, Baddi-173 205 (H.P.)",
+        "Related Susbtances",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 30,
+      "raw_row": [
+        "30.",
+        "Gentamicin Injection IP (Gentatore Injection 80 mg/2ml)",
+        "IGMG418",
+        "07/2024",
+        "06/2026",
+        "M/s. Regain Laboratories, 134/5, HTM Road, Rajpur Lane, Hisar-125001, Haryana",
+        "Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 31,
+      "raw_row": [
+        "31.",
+        "Teneligliptin & Metformin Hydrochloride (Sustained Release) Tablets IP (Teglisure-M 500)",
+        "AOT244-00B",
+        "03/2024",
+        "02/2026",
+        "M/s. Astonea Labs Pvt. Ltd., Vill- Haripur, Teh. Raipur Rani, Dist. Panchkula, Haryana, INDIA-134204",
+        "Assay/content of Teneligliptin",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 32,
+      "raw_row": [
+        "32.",
+        "Cefpodoxime Proxetil Tablets I.P. 200 mg (BREPOD-200)",
+        "ST-25456",
+        "10/2024",
+        "09/2026",
+        "M/s. Sunvij Drugs Private Limited, 511, GIDC, Waghodia, Baroda-391760, Gujarat",
+        "Dissolution",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 33,
+      "raw_row": [
+        "33.",
+        "Rabeprazole Sodium Injection IP",
+        "MD23H19",
+        "08/2023",
+        "07/2025",
+        "M/s. Martin & Brown Bio Sciences, K. No. 918/419, Malkumajra, Nalagarh Road, Baddi, Dist. Solan (H.P.)- 173205",
+        "pH, Particulate matter, Clarity of Solution, Assay of Rabeprazole Sodium and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 34,
+      "raw_row": [
+        "34.",
+        "Nimesulide & Paracetamol Tablets (Somu Gold)",
+        "TTX0093",
+        "01/2024",
+        "12/2026",
+        "M/s.Pro-pharma Care Pvt. Ltd., Khasara No. : 68, 69, 71, Village : Sikandarpur, Bhaiswal, Near Bhagwanpur, Roorkee, Distt. Haridwar, Uttarakhand-247661",
+        "Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 35,
+      "raw_row": [
+        "35.",
+        "Fluconazole Tablets I.P. 150 mg (Megmazole- 150 Tablets)",
+        "TSF-C0116",
+        "01/2024",
+        "12/2025",
+        "M/s.Spen Formulations Pvt. Ltd., Plot No-123, Industrial Area, Mehatpur, Distt. UNA174315 (H.P.)",
+        "Assay/Content of Fluconazole",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 36,
+      "raw_row": [
+        "36.",
+        "Ampicillin Sodium Injection I.P. (AMPIVEE- 500 Injection)",
+        "TGDI082319 04",
+        "8/2023",
+        "07/2025",
+        "M/s.T & G Medicare, Village Kunjahal, PO Baddi, Distt:. Solan (H.P.)",
+        "Sterillity",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 37,
+      "raw_row": [
+        "37.",
+        "Sulbactam Sodium Sterile I.P./USP.",
+        "23051901",
+        "5/2023",
+        "04/2026",
+        "M/s.Reyoung Pharmaceutical Co. Ltd., No.1,Ruiyang Road, Yiyuan Country,Shandong Province,P.R.China,Post Code:256100.Imported By: Shah TC Distribution LLP,Gala No.2 & 3, 1st Floor, BLD No. B1.H.No.709/2&709/3,Radha Krushna Compound,T.M. Industrial Park, Pimplas Bhiwandi,MH-421302, India.",
+        "\"Identification and Assay/Content of Sulbactam Sodium",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 38,
+      "raw_row": [
+        "38.",
+        "Sulbactam Sodium Sterile I.P./USP.",
+        "23051806",
+        "5/2023",
+        "04/2026",
+        "M/s.Reyoung Pharmaceutical Co. Ltd., No.1,Ruiyang Road, Yiyuan Country,Shandong Province,P.R.China,Post Code:256100.Imported By: Shah TC Distribution LLP,Gala No.2 & 3, 1st Floor, BLD No.",
+        "Identification and Assay/Content of Sulbactam Sodium",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 39,
+      "raw_row": [
+        "39.",
+        "Sulbactam Sodium Sterile I.P./USP.",
+        "23051903",
+        "5/2023",
+        "04/2026",
+        "M/s.Reyoung Pharmaceutical Co. Ltd., No.1,Ruiyang Road, Yiyuan Country,Shandong Province,P.R.China,Post Code:256100.Imported By: Shah TC Distribution LLP,Gala No.2 & 3, 1st Floor, BLD No. B1.H.No.709/2&709/3,Radha Krushna Compound,T.M. Industrial Park, Pimplas Bhiwandi,MH-421302, India.",
+        "Identification and Assay/Content of Sulbactam Sodium",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 40,
+      "raw_row": [
+        "40.",
+        "Ciprofloxacin Tablets IP 250 mg (Ciprodac 250)",
+        "CT24001",
+        "2/2024",
+        "01/2027",
+        "M/s.CADILA PHARMACEUTICALS LIMITED, 1389, Dholka- 382225, Dist. Ahmedabad",
+        "Dissolution\" of Ciprofloxacin",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 41,
+      "raw_row": [
+        "41.",
+        "Ciprofloxacin Tablets IP 250 mg",
+        "CITB-02",
+        "7/2024",
+        "06/2026",
+        "M/s. NESTOR PHARMACEUTICALS LIMITED, 11, Western Extension Area, Faridabad - 121 001, INDIA",
+        "Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 42,
+      "raw_row": [
+        "42.",
+        "Sulbactam Sodium Sterile I.P./USP",
+        "23051904",
+        "5/2023",
+        "04/2026",
+        "M/s.Reyoung Pharmaceutical Co. Ltd., No.1,Ruiyang Road, Yiyuan Country,Shandong Province,P.R.China,Post Code:256100.Imported By: Shah TC Distribution LLP,Gala No.2 & 3, 1st Floor, BLD No. B1.H.No.709/2&709/3,Radha Krushna Compound,T.M. Industrial Park, Pimplas Bhiwandi,MH-421302, India.",
+        "Identification and Assay/Content of Sulbactam Sodium",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 43,
+      "raw_row": [
+        "43.",
+        "Sulbactam Sodium Sterile I.P./USP.",
+        "23051902",
+        "5/2023",
+        "04/2026",
+        "M/s.Reyoung Pharmaceutical Co. Ltd., No.1,Ruiyang Road, Yiyuan Country,Shandong Province,P.R.China,Post Code:256100.Imported By: Shah TC Distribution LLP,Gala No.2 & 3, 1st Floor, BLD No. B1.H.No.709/2&709/3,Radha Krushna Compound,T.M. Industrial Park, Pimplas Bhiwandi,MH-421302, India.",
+        "Identification and Assay/Content of Sulbactam Sodium",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 44,
+      "raw_row": [
+        "44.",
+        "Albendazole Tablets IP 400 mg",
+        "LMT241100",
+        "9/2024",
+        "08/2026",
+        "M/s.Life Max Cancer Laboratories, Plot No. 106 & 106 A, Sector6A, IIE, SIDCUL, Haridwar249403 (U.K)",
+        "Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 45,
+      "raw_row": [
+        "45.",
+        "Telmisartan I.P. 40 mg, Amlodipine Besylate I.P. 5 mg Tablets",
+        "ST 211",
+        "4/2024",
+        "03/2026",
+        "M/s.Soham Healhcare INC, Soham Healthcare Inc A-49, Sector-25, Gandhinagar, Gujarat",
+        "\"Dissolution\" (Telmisartan and Amlodipine) and \"Assay/ content of Telmisartan and Amlodipine\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 46,
+      "raw_row": [
+        "46.",
+        "Pioglitazone Hydrochloride Tablets (GLITO 15)",
+        "D40292",
+        "5/2024",
+        "04/2027",
+        "M/s.Medley Pharmaceuticals Ltd., Plot No. 18 & 19, Survey No.378/7 & 8, 379/2 & 3, Zari Causeway Road, Kachigam Daman- 396210 (U.T), INDIA",
+        "\"Dissolution\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 47,
+      "raw_row": [
+        "47.",
+        "Glimepiride Tablets I.P. 1 mg",
+        "12801124",
+        "8/2024",
+        "07/2026",
+        "M/s.Karnataka Antibiotics & Pharmaceuticals Limited (A Govt of India Enterprise), Plot No.14, II Phase, Peenya, Bengaluru - 560 058.",
+        "\"Related substances\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 48,
+      "raw_row": [
+        "48.",
+        "Telmisartan & Hydrochlorothiazide Tablets IP (Telmijack-H)",
+        "T-20560",
+        "3/2024",
+        "02/2026",
+        "M/s.Jackson Laboratories Pvt. Ltd., Plot No. 56 & 61, Industrial Area, Phase III, Sansarpur Terrace, Distt. Kangra (H.P.)- 176501.",
+        "\"Related substances and Assay of Hydrochlorothiazi de\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 49,
+      "raw_row": [
+        "49.",
+        "Sulphamethoxazole and Trimethoprim Tablets IP",
+        "MT386",
+        "10/2023",
+        "09/2026",
+        "M/s.Mayasha Lifesciences, H.B. 86, Village-Bhatian Nalagarh, Distt.-Solan (H.P.) 174101",
+        "Dissolution of Sulphamethoxazol e",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 50,
+      "raw_row": [
+        "50.",
+        "Levamisole & Oxyclozanide Bolus Vet. (Wormizole Bolus)",
+        "EMVB-24162",
+        "10/2024",
+        "09/2026",
+        "M/s.Events Corporation, UNIT- II, Kala Amb, Tehsil Nahan, District Sirmour (H.P.)-173030",
+        "Disintegration test",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 51,
+      "raw_row": [
+        "51.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4979",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 52,
+      "raw_row": [
+        "52.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4987",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 53,
+      "raw_row": [
+        "53.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4983",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 54,
+      "raw_row": [
+        "54.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4984",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 55,
+      "raw_row": [
+        "55.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4985",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 56,
+      "raw_row": [
+        "56.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4982",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 57,
+      "raw_row": [
+        "57.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4978",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 58,
+      "raw_row": [
+        "58.",
+        "Sodium Chloride Injection IP 0.9 %w/v",
+        "LV4988",
+        "11/2024",
+        "10/2026",
+        "M/s.Captab Biotec, Unit-II, Plot No.125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Distt. Solan (H.P.)-173205",
+        "Particulate matter, Bacterial endotoxins and Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 59,
+      "raw_row": [
+        "59.",
+        "Doxycycline Capsules IP 100 mg",
+        "B240705",
+        "05/2024",
+        "04/2026",
+        "M/s.Bochem Healthcare Pvt. Ltd., 83-84, Industrial Area, Dewas Road, Nagziri, Ujjain 45601-(M.P.) India",
+        "Dissolution of Doxycycline",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 60,
+      "raw_row": [
+        "60.",
+        "Levetiracetam Tablets IP 500 mg",
+        "LMT241488",
+        "12/2024",
+        "11/2026",
+        "M/s.Life Max Cancer Laboratories Plot No. 106 & 106A, Sector-6A, IIE, SIDCUL, Haridwar-249403 (U.K)",
+        "Dissolution",
+        "CDTL, Indore"
+      ]
+    }
+  ],
+  "skipped_sample": [
+    {
+      "page": 1,
+      "reason": "header",
+      "content": [
+        "S.No",
+        "Product/Drug Name",
+        "Batch No.",
+        "Manufacturing Date",
+        "Expiry Date",
+        "Manufactured By",
+        "NSQ Result",
+        "Reported by CDSCO Laboratory"
+      ]
+    },
+    {
+      "page": 2,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Elemental Calcium",
+        ""
+      ]
+    },
+    {
+      "page": 3,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Hyderabad- 500055.Telangana, India",
+        "",
+        ""
+      ]
+    },
+    {
+      "page": 5,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "B1.H.No.709/2&709/3,Radha Krushna Compound,T.M. Industrial Park, Pimplas Bhiwandi,MH-421302, India.",
+        "",
+        ""
+      ]
+    },
+    {
+      "page": 7,
+      "reason": "non_numbered_note",
+      "content": [
+        "(Further, the term \u2018standards of quality\u2019 is defined under the Section 16 (1) (a) of Drugs & Cosmetics Act, 1940, that the \u2018standards"
+      ]
+    }
+  ]
+}

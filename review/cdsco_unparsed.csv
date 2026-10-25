@@ -1,0 +1,4 @@
+source_file,page_number,s_no_in_pdf,row_index_on_page,row_number,raw_drug_name,raw_batch_number,rejection_reason
+CDSCO_NSQ_May_2025.pdf,5,42,4,42,Azithromycin Tablets IP 250 mg (RICK-250 TABLETS),Not mentioned,missing_batch_or_drug_or_test_fixture
+CDSCO_NSQ_May_2025.pdf,6,47,3,47,Injection Oxytocin Vet. 100 ml Vial,Not mentioned,missing_batch_or_drug_or_test_fixture
+CDSCO_NSQ_May_2025.pdf,6,48,4,48,Injection Oxytocin Vet. 50 ml Vial,Not mentioned,missing_batch_or_drug_or_test_fixture

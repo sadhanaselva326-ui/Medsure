@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+medsure_backend/.env
+medsure_frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+pytest_report.xml
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,729 @@
+{
+  "CDSCO_NSQ_April_2025_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 60,
+    "fields": {
+      "s_no": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 60,
+        "total": 60,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_Dec_2024_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 51,
+    "fields": {
+      "s_no": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 51,
+        "total": 51,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_Feb_2025_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 47,
+    "fields": {
+      "s_no": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 47,
+        "total": 47,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_Jan_2025_Revised_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 1,
+    "fields": {
+      "s_no": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 1,
+        "total": 1,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_June_2025_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 55,
+    "fields": {
+      "s_no": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 55,
+        "total": 55,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_March_2025_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 70,
+    "fields": {
+      "s_no": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 70,
+        "total": 70,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_May_2025_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 58,
+    "fields": {
+      "s_no": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 58,
+        "total": 58,
+        "pct": 100.0
+      }
+    }
+  },
+  "CDSCO_NSQ_Sep_2024_parsed.json": {
+    "category": "cdsco",
+    "total_rows": 49,
+    "fields": {
+      "s_no": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 49,
+        "total": 49,
+        "pct": 100.0
+      }
+    }
+  },
+  "STATE_NSQ_April_2025_parsed.json": {
+    "category": "cdsco_state",
+    "total_rows": 136,
+    "fields": {
+      "s_no": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 136,
+        "total": 136,
+        "pct": 100.0
+      }
+    }
+  },
+  "STATE_NSQ_Dec_2024_parsed.json": {
+    "category": "cdsco_state",
+    "total_rows": 84,
+    "fields": {
+      "s_no": {
+        "non_empty": 84,
+        "total": 84,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 84,
+        "total": 84,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 84,
+        "total": 84,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 82,
+        "total": 84,
+        "pct": 97.6
+      },
+      "exp_date": {
+        "non_empty": 82,
+        "total": 84,
+        "pct": 97.6
+      },
+      "mfg_by": {
+        "non_empty": 84,
+        "total": 84,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 84,
+        "total": 84,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 84,
+        "total": 84,
+        "pct": 100.0
+      }
+    }
+  },
+  "STATE_NSQ_June_2025_parsed.json": {
+    "category": "cdsco_state",
+    "total_rows": 130,
+    "fields": {
+      "s_no": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "mfg_by": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 130,
+        "total": 130,
+        "pct": 100.0
+      }
+    }
+  },
+  "STATE_NSQ_May_2025_parsed.json": {
+    "category": "cdsco_state",
+    "total_rows": 128,
+    "fields": {
+      "s_no": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      },
+      "drug_name": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      },
+      "batch": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      },
+      "mfg_date": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      },
+      "exp_date": {
+        "non_empty": 127,
+        "total": 128,
+        "pct": 99.2
+      },
+      "mfg_by": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      },
+      "reason": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      },
+      "lab": {
+        "non_empty": 128,
+        "total": 128,
+        "pct": 100.0
+      }
+    }
+  },
+  "nppa_ceiling_price_anti_cancer_parsed.json": {
+    "category": "nppa_order",
+    "total_rows": 131,
+    "fields": {
+      "s_no": {
+        "non_empty": 131,
+        "total": 131,
+        "pct": 100.0
+      },
+      "medicine_name": {
+        "non_empty": 129,
+        "total": 131,
+        "pct": 98.5
+      },
+      "dosage_form": {
+        "non_empty": 130,
+        "total": 131,
+        "pct": 99.2
+      },
+      "unit": {
+        "non_empty": 121,
+        "total": 131,
+        "pct": 92.4
+      },
+      "ceiling_price": {
+        "non_empty": 131,
+        "total": 131,
+        "pct": 100.0
+      },
+      "so_number": {
+        "non_empty": 120,
+        "total": 131,
+        "pct": 91.6
+      }
+    }
+  },
+  "nppa_ceiling_price_anti_diabetes_parsed.json": {
+    "category": "nppa_order",
+    "total_rows": 9,
+    "fields": {
+      "s_no": {
+        "non_empty": 8,
+        "total": 9,
+        "pct": 88.9
+      },
+      "medicine_name": {
+        "non_empty": 9,
+        "total": 9,
+        "pct": 100.0
+      },
+      "dosage_form": {
+        "non_empty": 7,
+        "total": 9,
+        "pct": 77.8
+      },
+      "unit": {
+        "non_empty": 2,
+        "total": 9,
+        "pct": 22.2
+      },
+      "ceiling_price": {
+        "non_empty": 9,
+        "total": 9,
+        "pct": 100.0
+      },
+      "so_number": {
+        "non_empty": 2,
+        "total": 9,
+        "pct": 22.2
+      }
+    }
+  },
+  "nppa_ceiling_price_cardio_parsed.json": {
+    "category": "nppa_order",
+    "total_rows": 57,
+    "fields": {
+      "s_no": {
+        "non_empty": 49,
+        "total": 57,
+        "pct": 86.0
+      },
+      "medicine_name": {
+        "non_empty": 47,
+        "total": 57,
+        "pct": 82.5
+      },
+      "dosage_form": {
+        "non_empty": 40,
+        "total": 57,
+        "pct": 70.2
+      },
+      "unit": {
+        "non_empty": 18,
+        "total": 57,
+        "pct": 31.6
+      },
+      "ceiling_price": {
+        "non_empty": 57,
+        "total": 57,
+        "pct": 100.0
+      },
+      "so_number": {
+        "non_empty": 18,
+        "total": 57,
+        "pct": 31.6
+      }
+    }
+  },
+  "nppa_compendium_prices_2022_parsed.json": {
+    "category": "nppa_compendium",
+    "total_rows": 1043,
+    "fields": {
+      "section": {
+        "non_empty": 1043,
+        "total": 1043,
+        "pct": 100.0
+      },
+      "medicine_name": {
+        "non_empty": 778,
+        "total": 1043,
+        "pct": 74.6
+      },
+      "dosage_and_unit": {
+        "non_empty": 1037,
+        "total": 1043,
+        "pct": 99.4
+      },
+      "ceiling_price": {
+        "non_empty": 1043,
+        "total": 1043,
+        "pct": 100.0
+      },
+      "so_no": {
+        "non_empty": 1043,
+        "total": 1043,
+        "pct": 100.0
+      },
+      "so_date": {
+        "non_empty": 1043,
+        "total": 1043,
+        "pct": 100.0
+      }
+    }
+  },
+  "pmbi_pmbjp_book_parsed.json": {
+    "category": "pmbi",
+    "total_rows": 579,
+    "fields": {
+      "sl_no": {
+        "non_empty": 579,
+        "total": 579,
+        "pct": 100.0
+      },
+      "generic_name": {
+        "non_empty": 565,
+        "total": 579,
+        "pct": 97.6
+      },
+      "unit_size": {
+        "non_empty": 561,
+        "total": 579,
+        "pct": 96.9
+      },
+      "bppi_mrp": {
+        "non_empty": 151,
+        "total": 579,
+        "pct": 26.1
+      },
+      "market_mrp": {
+        "non_empty": 564,
+        "total": 579,
+        "pct": 97.4
+      }
+    }
+  }
+}

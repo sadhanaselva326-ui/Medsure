@@ -1,0 +1,157 @@
+{
+  "app": {
+    "name": "MedSure Vision",
+    "tagline": "Smart medicine screening for safer verification",
+    "positioningNotice": "First-line screening tool. MedSure compares details with its catalogue and does not confirm that a medicine is genuine or safe. Consult a pharmacist."
+  },
+  "nav": {
+    "scan": "Scan",
+    "receiving": "Receiving",
+    "history": "History",
+    "alerts": "Alerts",
+    "search": "Search",
+    "stats": "System",
+    "settings": "Settings",
+    "help": "Help"
+  },
+  "scan": {
+    "title": "Verify a medicine",
+    "subtitle": "Scan the medicine pack to check whether its details match records in the MedSure catalogue.",
+    "ctaScan": "SCAN MEDICINE",
+    "ctaUpload": "UPLOAD IMAGE",
+    "ctaSearch": "SEARCH MEDICINE",
+    "ctaManual": "Enter details manually",
+    "guidance": "Place the medicine name, batch number and expiry area inside the frame.",
+    "ready": "Ready to scan",
+    "scanning": "Aligning medicine packaging...",
+    "processing": "Analyzing packaging and comparing with master catalog...",
+    "stopCamera": "Stop Camera",
+    "switchCamera": "Switch Camera",
+    "dropImage": "Drop medicine packaging image here or click to browse",
+    "uploadHint": "Supports JPG, PNG, WEBP (Strip, Box, or Label)"
+  },
+  "search": {
+    "title": "Medicine Catalogue Search",
+    "placeholder": "Search medicine, composition or brand (e.g. Dolo, Paracetamol, Crocin)",
+    "examples": "Quick examples:",
+    "searching": "Searching Indian medicine database...",
+    "noResults": "No medicines found matching your search.",
+    "resultsFound": "{{count}} medicines found",
+    "viewDetails": "View Details",
+    "filterBy": "Filter by",
+    "dosageForm": "Dosage Form",
+    "manufacturer": "Manufacturer",
+    "allForms": "All Forms"
+  },
+  "details": {
+    "overview": "Medicine Overview",
+    "composition": "Composition & Active Ingredients",
+    "strength": "Strength",
+    "dosageForm": "Dosage Form",
+    "manufacturer": "Manufacturer",
+    "variants": "Available Variants & Pack Sizes",
+    "mrp": "Maximum Retail Price (MRP)",
+    "barcode": "Barcode / GTIN",
+    "substitutes": "Therapeutic Substitutes",
+    "verificationInfo": "Verification Provenance",
+    "regulatoryAlerts": "Regulatory Alerts",
+    "noVariants": "No additional variants recorded",
+    "noSubstitutes": "No known therapeutic substitutes found"
+  },
+  "verification": {
+    "title": "Screening Result",
+    "match": {
+      "badge": "Matches a catalogue record",
+      "title": "Matches a catalogue record",
+      "desc": "The details provided correspond to a record in the MedSure catalogue."
+    },
+    "alert": {
+      "badge": "Regulatory alert found",
+      "title": "Regulatory alert found",
+      "desc": "An active CDSCO regulatory alert exists for this batch. Do not dispense — consult a pharmacist."
+    },
+    "needsVerification": {
+      "badge": "Needs verification",
+      "title": "Needs verification",
+      "desc": "One or more details do not fully match the catalogue record. Manual check required."
+    },
+    "noRecord": {
+      "badge": "No matching record in the MedSure catalogue",
+      "title": "No matching record in the MedSure catalogue",
+      "desc": "No record was found matching the provided details. The medicine may not be in the MedSure catalogue."
+    },
+    "insufficient": {
+      "badge": "Insufficient input",
+      "title": "Insufficient input",
+      "desc": "Not enough information was provided to attempt verification. Please provide a medicine name, barcode, or batch number."
+    },
+    "whatWasChecked": "What was checked",
+    "checkName": "Medicine Brand / Generic Name",
+    "checkMfg": "Manufacturer Details",
+    "checkStrength": "Dosage & Strength",
+    "checkPack": "Packaging & MRP",
+    "checkBatch": "Batch number entered",
+    "checkBarcode": "Barcode / GS1 GTIN Identifier",
+    "confidence": "Screening Confidence",
+    "riskLevel": "Risk Level",
+    "recommendation": "Recommendation",
+    "actions": {
+      "verifyAnother": "Verify Another Medicine",
+      "addToReceiving": "Add to Receiving"
+    }
+  },
+  "receiving": {
+    "title": "Receive Medicine",
+    "subtitle": "Verify medicines before adding them to inventory.",
+    "scanPrompt": "Verify a pack first to add it to the receiving ledger.",
+    "batch": "Batch Number",
+    "expiry": "Expiry Date",
+    "quantity": "Quantity Received",
+    "addSuccess": "Added to receiving queue successfully!",
+    "tableHeader": {
+      "medicine": "Medicine & Brand",
+      "mfg": "Manufacturer",
+      "batch": "Batch / Exp",
+      "qty": "Quantity",
+      "status": "Screening Status",
+      "action": "Action"
+    },
+    "empty": "No medicines in receiving ledger yet. Screen a medicine to add it."
+  },
+  "history": {
+    "title": "Verification History",
+    "subtitle": "Audit log of all scanned and verified medicine packages.",
+    "empty": "No verification history yet.",
+    "filters": {
+      "all": "All Records",
+      "match": "Matches a catalogue record",
+      "alert": "Regulatory alert found",
+      "needsVerification": "Needs verification",
+      "noRecord": "No matching record in the MedSure catalogue"
+    },
+    "search": "Search in history..."
+  },
+  "alerts": {
+    "title": "Regulatory NSQ Alerts",
+    "subtitle": "Authoritative CDSCO and State Drug Control NSQ alerts from backend.",
+    "empty": "No active regulatory alerts reported.",
+    "severity": {
+      "critical": "Critical NSQ Alert",
+      "warning": "Quality Advisory",
+      "info": "Information"
+    },
+    "affectedBatch": "Affected Batch",
+    "viewDetails": "View Alert Notice"
+  },
+  "common": {
+    "loading": "Loading...",
+    "retry": "Try Again",
+    "errorTitle": "Unable to complete request",
+    "networkError": "Could not connect to MedSure backend. Please ensure the server is running at localhost:8000.",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "confirm": "Confirm",
+    "verified": "Verified"
+  }
+}

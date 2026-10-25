@@ -1,0 +1,1205 @@
+{
+  "source_file": "CDSCO_NSQ_March_2025.pdf",
+  "category": "cdsco",
+  "total_pages": 9,
+  "total_data_rows": 70,
+  "total_skipped_rows": 7,
+  "first_5_rows": [
+    {
+      "page": 1,
+      "s_no": 1,
+      "raw_row": [
+        "1.",
+        "Amoxicillin Sodium and Clavulanate Potassium (Sterile) 5:1",
+        "4032409004",
+        "09/2024",
+        "08/2028",
+        "M/s. Shandong New Time Pharmaceuticals Co. Ltd., No.1, North Outer Ring Road, Feixian Country, Shandong Province, China",
+        "Particulate Matter",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 2,
+      "raw_row": [
+        "2.",
+        "Pantoprazole Gastro- Resistant Tablets IP (Pantoshang-40)",
+        "SP240165",
+        "06/2024",
+        "05/2026",
+        "M/s. Shangrila Industries (P) Ltd., (Pharma Division) Mining Rangpo East Sikkim-737132",
+        "Dissolution (Buffer Stage)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 3,
+      "raw_row": [
+        "3.",
+        "Pantoprazole tablets IP 40 mg",
+        "0081",
+        "05/2024",
+        "04/2026",
+        "M/s. Hindustan Antibiotics Ltd., Pimpri, Pune-411018, INDIA",
+        "Dissolution (Buffer Stage)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 4,
+      "raw_row": [
+        "4.",
+        "Adrenaline Bitartrate Injection IP (Reoline Injection)",
+        "AD-204",
+        "11/2024",
+        "04/2026",
+        "M/s. Rathi Laboratories (Hindustan) Pvt. Ltd., Industrial Area, Patna-800013 Bihar",
+        "Appearance of solution, Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 5,
+      "raw_row": [
+        "5.",
+        "Bupivacaine Hydrochloride In Dextrose Injection USP",
+        "AA4009",
+        "03/2024",
+        "02/2026",
+        "M/s. Aishwarya Healthcare, Samardung, Kower Kabrey Block, South Sikkim-737137",
+        "Particulate matter (visible) and Description",
+        "CDL, Kolkata"
+      ]
+    }
+  ],
+  "last_5_rows": [
+    {
+      "page": 7,
+      "s_no": 66,
+      "raw_row": [
+        "66.",
+        "Sodium Chloride Injection I.P. 0.45 % W/V (0.45 NS)",
+        "1266688H",
+        "06/2024",
+        "05/2027",
+        "M/s.Shree KrishnaKeshav Laboratories Ltd., Amraiwadi Road, Ahmedabad- 380 008, India",
+        "Misbranded",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 67,
+      "raw_row": [
+        "67.",
+        "Hydro Cellular Foam with ART Principle Antibacterial PU top",
+        "10241283L",
+        "10/2024",
+        "09/2027",
+        "M/s Datt Mediproducts Pvt. Ltd., 52-54 & 63-64,Roz-ka-",
+        "Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 8,
+      "s_no": 68,
+      "raw_row": [
+        "68.",
+        "Chlorpheniramine Maleate Dextromethorphan Hydrobromide & Phenylephrine HCl Syrup (DXCP)",
+        "ML-012",
+        "08/2024",
+        "07/2026",
+        "M/s Maha Avtar, Health Care Pvt. Ltd., D-22, Sector-17, Kavi Nagar Indl.Area, GZB-201002.",
+        "Identification and Assay of Dextromethorpha n Hydrobromide",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 8,
+      "s_no": 69,
+      "raw_row": [
+        "69.",
+        "Povidone-Iodine Ointment USP",
+        "OI4004A",
+        "09/2024",
+        "08/2026",
+        "M/s. Navkar Lifesciences, Plot No. 76, Lodhi Majra, Industrial Area, Baddi, Distt. Solan (H.P.)",
+        "Assay of Povidone Iodine calculated as available Iodine",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 8,
+      "s_no": 70,
+      "raw_row": [
+        "70.",
+        "Omega-3 Fatty Acid, Green Tea Extract, Ginkgo Biloba, Ginseng Extract, Grape Seed Extract, Multimineral, Multivitamin with Antioxidants and Trace Elements Softgel Capsules (VRICH-24 CAPSULES)",
+        "RHSD-3149F",
+        "02/2024",
+        "01/2026",
+        "M/s.Ramom Healthcare Pvt.Ltd. (An ISO & GMP Certified Company), Plot No.58, Sector-5, Parwanoo (HP)",
+        "Assay of Magnesium Oxide calculated as elemental Magnesium, Vitamin D3, Ferrous Fumarate, Zinc Oxide calculated as elemental Zinc, Copper Sulphate Pentahydrate calculated as elemental Copper, Manganese Sulphate calculated as elemental Manganese, Calcium Ascorbate, Citrus Bioflavonoids, Vitamin B6, Folic acid",
+        "RDTL, Chandigarh"
+      ]
+    }
+  ],
+  "data_rows": [
+    {
+      "page": 1,
+      "s_no": 1,
+      "raw_row": [
+        "1.",
+        "Amoxicillin Sodium and Clavulanate Potassium (Sterile) 5:1",
+        "4032409004",
+        "09/2024",
+        "08/2028",
+        "M/s. Shandong New Time Pharmaceuticals Co. Ltd., No.1, North Outer Ring Road, Feixian Country, Shandong Province, China",
+        "Particulate Matter",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 2,
+      "raw_row": [
+        "2.",
+        "Pantoprazole Gastro- Resistant Tablets IP (Pantoshang-40)",
+        "SP240165",
+        "06/2024",
+        "05/2026",
+        "M/s. Shangrila Industries (P) Ltd., (Pharma Division) Mining Rangpo East Sikkim-737132",
+        "Dissolution (Buffer Stage)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 3,
+      "raw_row": [
+        "3.",
+        "Pantoprazole tablets IP 40 mg",
+        "0081",
+        "05/2024",
+        "04/2026",
+        "M/s. Hindustan Antibiotics Ltd., Pimpri, Pune-411018, INDIA",
+        "Dissolution (Buffer Stage)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 4,
+      "raw_row": [
+        "4.",
+        "Adrenaline Bitartrate Injection IP (Reoline Injection)",
+        "AD-204",
+        "11/2024",
+        "04/2026",
+        "M/s. Rathi Laboratories (Hindustan) Pvt. Ltd., Industrial Area, Patna-800013 Bihar",
+        "Appearance of solution, Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 5,
+      "raw_row": [
+        "5.",
+        "Bupivacaine Hydrochloride In Dextrose Injection USP",
+        "AA4009",
+        "03/2024",
+        "02/2026",
+        "M/s. Aishwarya Healthcare, Samardung, Kower Kabrey Block, South Sikkim-737137",
+        "Particulate matter (visible) and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 6,
+      "raw_row": [
+        "6.",
+        "Montelukast and Levocetirizine Tablet (Dumont-L )",
+        "DML 062",
+        "12/2024",
+        "11/2027",
+        "M/s.Hygeia Pharmaceuticals Mfg (P) Ltd., 608, Dwarir Road, Dhamaitala, P.O.- Dakshin Jagaddal, Dist-24 Pgs(S), Pin-700151, W.B.",
+        "Dissolution of Levocetirizine Hydrochloride and Montelukast",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 7,
+      "raw_row": [
+        "7.",
+        "Nitrazepam Tablets I.P. 10 mg. (Nitravet-10)",
+        "AXI23003P",
+        "09/2023",
+        "02/2028",
+        "M/s. Anglo-French Drugs & Industries Limited, Plot No-4, Phase-II, Peenya Industrial Area, Peenya, Bengaluru-560 058",
+        "Spurious Identification and Assay of Nitrazepam",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 8,
+      "raw_row": [
+        "8.",
+        "Vitamin B1, Vitamin B2, Nicotinamide, Vitamin B6, Vitamin B12 & Calcium D-Pantothenate Syrup (B-Complex Syrup)",
+        "BOB-2440",
+        "06/2024",
+        "11/2025",
+        "M/s. Apple formulations Pvt. Ltd., Plot no. 208, Kishanpur, Roorkee-247667 (U.K.)",
+        "Assay of Vitamin B12",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 1,
+      "s_no": 9,
+      "raw_row": [
+        "9.",
+        "Vitamin B1, Vitamin B2, Nicotinamide, Vitamin B6, Vitamin B12 &",
+        "BOB-2451",
+        "06/2024",
+        "11/2025",
+        "M/s. Apple Formulations Pvt. Ltd., Plot no. 208, Kishanpur, Roorkee-247667 (U.K.)",
+        "Total aerobic viable count",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 10,
+      "raw_row": [
+        "10.",
+        "Vitamin C, Vitamin B12, Folic Acid and Niacinamide Injection (Curevit-12 (Combi Pack ))",
+        "CP-937",
+        "12/2024",
+        "05/2026",
+        "M/s. Pharma Cure Laboratories, Garha Jalandhar 144022 Punjab",
+        "Particulate Matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 11,
+      "raw_row": [
+        "11.",
+        "Ceftriaxone and Salbactam for Injection 1.5 g (TriaxS 1.5 g)",
+        "DC40117",
+        "09/2024",
+        "08/2027",
+        "M/s. Captab Biotec, Unit-II, Plot No. 125, E.P.I.P. Road, Mauja, Jharmajri, Baddi, Dist. Solan (H.P.)-173205",
+        "Particulate Matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 12,
+      "raw_row": [
+        "12.",
+        "Ceftriaxone & Sulbactam for Injection IP (Cefamed-S)",
+        "B4CT05E",
+        "10/2024",
+        "09/2026",
+        "M/s. Lenus Lifecare Pvt. Ltd., Plot No. 1, Industrial Area, Chambaghat, Solan (H.P.)-173 213(India)",
+        "Clarity of Solution, Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 13,
+      "raw_row": [
+        "13.",
+        "Pantoprazole Gastro- Resistant and Domperidone Prolonged-release Capsules IP (Pantoryl- DSR )",
+        "MC-24229",
+        "04/2024",
+        "03/2026",
+        "M/s. Matins Healthcare Pvt. Ltd., Plot No.-10, Sector-5, I.I.E., SIDCUL, HARIDWAR- 249403 (U.K.)",
+        "Dissolution of Pantoprazole Sodium in Buffer stage",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 14,
+      "raw_row": [
+        "14.",
+        "Chlorhexidine Gluconate & Ethyle Alcohol Baed Hand and Skin Disinfectant (Safiser Hand Rub)",
+        "IJWX/074",
+        "09/2023",
+        "09/2025",
+        "M/s. SS Enterprises F-76,, Sector-8, Noida, G.B. Nagar (U.P.), India 201301",
+        "Assay of Ethyl alcohol, Chlorhexidine Gluconate",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 15,
+      "raw_row": [
+        "15.",
+        "Dexamethasone Sodium Phosphate Injection IP (Dexagain Injection )",
+        "VHI274001",
+        "12/2024",
+        "11/2026",
+        "M/s.Vidit Healthcare, Village Kishanpura, Paonta Sahib, Distt-Sirmour, H.P.-173025",
+        "Assay of Dexamethasone Sodium Phosphate calculated as Dexamethasone Phosphate",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 16,
+      "raw_row": [
+        "16.",
+        "Itraconazole Capsules BP 100 mg (Fungis-100)",
+        "C4050",
+        "06/2024",
+        "05/2026",
+        "M/s. Merril Pharma Pvt. Ltd., Unit- II Plot No.24,25,31,32 Somnath Industrial Park, Kerala GIDC, Near Bavla, Ahmedabad -382220, Gujarat, India",
+        "Dissolution",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 17,
+      "raw_row": [
+        "17.",
+        "Gentamicin Sulphate Injection IP (GENTAMICIN )",
+        "GN-37",
+        "09/2024",
+        "08/2026",
+        "M/s. Amba research Laboratories, Road No.-21, Rajiv Nagar, Patna-24",
+        "Sterility, Particulate Matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 2,
+      "s_no": 18,
+      "raw_row": [
+        "18.",
+        "Methylcobalamin, Thiamine HCl, Pyridoxine HCl, D-",
+        "UGA-24436E",
+        "08/2024",
+        "01/2026",
+        "M/s. Ultra Drugs Pvt. Ltd., Plot No. 1315-1318, Manpura,",
+        "Particulate Matter and Assay of Methylcobalamin",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 19,
+      "raw_row": [
+        "19.",
+        "Chloramphenirol Eye Ointment I.P. 1% W/W (EXPHENICOL)",
+        "1624-366",
+        "01/07/2024",
+        "30/06/2026",
+        "M/s. Zee Laboratories Ltd., Behind 47, Industrial Area, Paonta Sahib-173025",
+        "Assay of Chloramphenicol",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 20,
+      "raw_row": [
+        "20.",
+        "Calcium& Vitamin D3 Tablets IP",
+        "QT23144",
+        "11/2024",
+        "10/2026",
+        "M/s.Quest Laboratories Limited, Plot No.-45, Sector-III, Pithampur, Dist-Dhar-454775 (M. P.)",
+        "Description, Dissolution (for Calcium) and Assay of Elemental Calcium",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 21,
+      "raw_row": [
+        "21.",
+        "Rabeprazole Sodium Injection I.P.",
+        "MD23H29",
+        "08/2023",
+        "07/2025",
+        "M/s. Martin and Brown Bio- sciences, K.No.-918/419, Malkumajra, Nalagarh Road, Baddi, Distt.-Solan (H.P.) - 173205",
+        "Particulate matter, Related Substances, Clarity of solution, pH, Assay of Rabeprazole Sodium and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 22,
+      "raw_row": [
+        "22.",
+        "Rabeprazole Sodium Injection I.P.",
+        "MD23H27",
+        "08/2023",
+        "07/2025",
+        "M/s. Martin and Brown Bio- sciences, K.No.-918/419, Malkumajra, Nalagarh Road, Baddi, Distt.-Solan (H.P.) - 173205",
+        "Clarity of solution, Particulate matter, Related Substances, pH, Assay of Rabeprazole Sodium and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 23,
+      "raw_row": [
+        "23.",
+        "Iron Sucrose Injection USP",
+        "MA24G46",
+        "07/2024",
+        "06/2026",
+        "M/s. Martin and Brown Bio- sciences Pvt. Ltd., K.No.- 918/419, Malkumajra, Nalagarh Road, Baddi, Distt.- Solan (H.P.) -173205",
+        "pH",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 24,
+      "raw_row": [
+        "24.",
+        "Cholecalciferol (Vitamin D3) 60000 IU/gm Granule Sachet",
+        "TPD24015",
+        "07/2024",
+        "06/2026",
+        "M/s. Affy Parenterals, Vill. Gullarwala, P.O. Baddi, Distt. Solan -173205 (HP)",
+        "Assay/content of Cholecalciferol (Vitamin D3)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 25,
+      "raw_row": [
+        "25.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU TABLETS IP (CALXIA 500 )",
+        "GTL1258",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 3,
+      "s_no": 26,
+      "raw_row": [
+        "26.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU TABLETS IP (CALXIA 500 )",
+        "GTL1296",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat.",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 27,
+      "raw_row": [
+        "27.",
+        "Omeprazole for Injection (Lyophilized) 40 mg (Fexona )",
+        "324-609",
+        "05/2024",
+        "04/2027",
+        "M/s. Zee Laboratories Ltd., Behind 47, Industrial Area, Paonta Sahib-173025",
+        "Sterility of Water for Injection",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 28,
+      "raw_row": [
+        "28.",
+        "Omeprazole for Injection (Lyophilized) 40 mg (Fexona )",
+        "324-608",
+        "05/2024",
+        "04/2027",
+        "M/s. Zee Laboratories Ltd., Behind 47, Industrial Area, Paonta Sahib-173025",
+        "Sterility of Water for Injection",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 29,
+      "raw_row": [
+        "29.",
+        "Cholecalciferol (Vitamin D3) 60000 IU/gm Granule Sachet",
+        "TPD24020",
+        "07/2024",
+        "06/2026",
+        "M/s. Affy Parenterals, (WHO- CGMP/ISO 9001:2015 Certified Co.) Vill-Gullerwala, PO-Baddi, Dist-Solan-173205 (H.P.)",
+        "Assay/content of Cholecalciferol (Vitamin D3)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 30,
+      "raw_row": [
+        "30.",
+        "Cholecalciferol (Vitamin D3 ) 60000 IU/gm Granule Sachet",
+        "TPD24019",
+        "07/2024",
+        "06/2026",
+        "M/s. Affy Parenterals, (WHO- CGMP/ISO 9001:2015 Certified Co.) Vill-Gullerwala, PO-Baddi, Dist-Solan-173205 (H.P.)",
+        "Assay/content of Cholecalciferol (Vitamin D3)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 31,
+      "raw_row": [
+        "31.",
+        "Cholecalciferol (Vitamin D3 ) 60000 IU/gm Granule Sachet",
+        "TPD24018",
+        "07/2024",
+        "06/2026",
+        "M/s. Affy Parenterals, (WHO- CGMP/ISO 9001:2015 Certified Co.) Vill-Gullerwala, PO-Baddi, Dist-Solan-173205 (H.P.)",
+        "Assay/content of Cholecalciferol (Vitamin D3)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 32,
+      "raw_row": [
+        "32.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU TABLETS IP (CALXIA 500 )",
+        "GTL1288",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No. 611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 33,
+      "raw_row": [
+        "33.",
+        "Cefuroxime Axetil Tablets I.P. 500 mg (BREXETIL-500 )",
+        "ST-25345",
+        "10/2024",
+        "09/2026",
+        "M/s. Sunvij Drugs Private Limited, 511, GIDC, Waghodia, Baroda-391760, Gujarat",
+        "Dissolution",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 34,
+      "raw_row": [
+        "34.",
+        "Aceclofenac & Paracetamol Tablets (ALDIGESIC P )",
+        "BHT23229M B",
+        "09/2023",
+        "08/2025",
+        "M/s. Sri Ram Healthcare Pvt. Ltd., Plot No.-81-C/2, EPIP, Phase-1, Jharmajri, Baddi, Dist-Solan (H.P.)-174103",
+        "Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 35,
+      "raw_row": [
+        "35.",
+        "Ambroxol Hydrochloride and N-Acetyl L-Cysteine Tablets (Kufril-NT )",
+        "INT 115",
+        "07/2024",
+        "06/2026",
+        "M/s. Med Manor Organics Pvt Ltd., Unit-II, Kh.No-143 M/7, Village-Raipur, Pargana- Bhagwanpur, Tehsil-Roorkee, Dist. Haridwar, Uttarakhand- 247661",
+        "Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 4,
+      "s_no": 36,
+      "raw_row": [
+        "36.",
+        "Calcium Gluconate Injection I.P. 10 ml",
+        "MV24B35",
+        "02/2024",
+        "01/2026",
+        "M/s. Martin and Brown Bio- sciences Pvt. Ltd., K.No.- 918/419, Malkumajra, Nalagarh Road, Baddi, Distt.- Solan (H.P.) -173205",
+        "Extractable Volume, Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 37,
+      "raw_row": [
+        "37.",
+        "Tranexamic Acid Injection I.P. (Tranexacure Injection )",
+        "TC-038",
+        "12/2024",
+        "11/2026",
+        "M/s. Pharma Cure Laboratories, Garha Jalandhar 144022 Punjab",
+        "Particulate Matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 38,
+      "raw_row": [
+        "38.",
+        "Domperidone Suspension IP",
+        "DPS3-24- 225",
+        "08/2024",
+        "07/2026",
+        "M/s. Ornate Labs Pvt. Ltd., Bela Industrial Estate, Muzaffarpur-842005",
+        "Total aerobic viable count under Microbial contamination test and Assay/content of Domperidone",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 39,
+      "raw_row": [
+        "39.",
+        "Calcium Carbonate 500 mg + VIT.D3 250 IU TABLETS IP (CALXIA- 500 )",
+        "GTL1307",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 40,
+      "raw_row": [
+        "40.",
+        "Calcium CarbonateE 500 mg + VIT. D3 250 IU TABLETS IP (CALXIA-500 )",
+        "GTL1312",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 41,
+      "raw_row": [
+        "41.",
+        "Calcium Carbonate 500 mg + VIT. D3 250 IU TABLETS IP (CALXIA- 500 )",
+        "GTL1313",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 42,
+      "raw_row": [
+        "42.",
+        "Calcium Carbonate 500 mg.+VIT. D3 250IU TABLETS IP (CALXIA- 500 )",
+        "GTL1314",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 43,
+      "raw_row": [
+        "43.",
+        "Calcium Carbonate 500 mg.+VIT. D3 250 IU TABLETS IP (CALXIA- 500 )",
+        "GTL1315",
+        "12/2024",
+        "11/2026",
+        "M/s. Gidsha Pharmaceuticals, Plot No.-611 612, Mega GIDC, Kharedi, Dahod-389151, Gujarat",
+        "Dissolution (for Calcium)",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 44,
+      "raw_row": [
+        "44.",
+        "Iron Sucrose Injection USP 100 mg/5ml",
+        "24RS13",
+        "10/2024",
+        "09/2026",
+        "M/s. SAI Parenterals Limited, D1 &D4, Survey No. 280, Phase-V, IDA, Jeedimetla, Hyderabad-500055, TS",
+        "Alkalinity and pH",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 45,
+      "raw_row": [
+        "45.",
+        "Iron Sucrose Injection USP 20 mg/ml (I-PIC)",
+        "A24105K",
+        "06/2024",
+        "05/2026",
+        "M/s. Pace Biotech Village Surajpur, Paonta Sahib, Dist. Sirmour (H.P.)-173001",
+        "Particulate matter in Injections",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 46,
+      "raw_row": [
+        "46.",
+        "Gentamicin Sulphate Injection I.P. 30 ml (Gentalab )",
+        "OGNI-037",
+        "07/2024",
+        "06/2026",
+        "M/s. Laborate Pharmaceuticals India Ltd., #31, Rajban Road, Nariwala Paonta Sahib, (H.P.)",
+        "Particulate matter and Description",
+        "CDL, Kolkata"
+      ]
+    },
+    {
+      "page": 5,
+      "s_no": 47,
+      "raw_row": [
+        "47.",
+        "Alprazolam Tablets I.P. 0.50 mg (Calmpik-05)",
+        "AT24266",
+        "07/2024",
+        "06/2027",
+        "M/s. Aarpik Pharmaceuticals Pvt.Ltd., C1/306/5,Kerala G. I.D.C,Kerala Bavla Road,Dist. Ahmedabad",
+        "Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 48,
+      "raw_row": [
+        "48.",
+        "Calcium 500 mg with Vitamin D3 250 IU Tablets IP",
+        "LMT240449",
+        "04/2024",
+        "03/2026",
+        "M/s. Life Max Cancer Laboratories, Plot No. 106 & 106 A, Sector6A, IIE, SIDCUL, Haridwar249403 (U.K)",
+        "Dissolution (Calcium) and Assay of Vitamin D3",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 49,
+      "raw_row": [
+        "49.",
+        "Calcium And Vitamin D3 Tablets IP",
+        "07493",
+        "01/2024",
+        "12/2025",
+        "M/s. Healthy Life Pharma Pvt. Ltd., Factory: N-31/1, M.I.D.C., Tarapur, Boisar - 401 506, Dist. Palghar. Maharashtra",
+        "Assay/Content of Vitamin D3",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 50,
+      "raw_row": [
+        "50.",
+        "Pantoprazole Gastro- Resistant Tablets IP 40 mg (Pantojack-40)",
+        "T-1261",
+        "04/2024",
+        "03/2026",
+        "M/s. Jackson Laboratories Pvt.Ltd, 22-24, Majitha Road, Bye Pass, Amritsar-143 001(India)",
+        "Description and Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 51,
+      "raw_row": [
+        "51.",
+        "Telmisartan Tablets I.P. (DV-TELMI-40)",
+        "GTE2206",
+        "08/2024",
+        "07/2026",
+        "M/s. Digital Vision, 176, Mauza Ogli, Nahan Road, Kala-Amb, Distt. Sirmour (H.P.) - 173 030",
+        "Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 52,
+      "raw_row": [
+        "52.",
+        "Telmisartan Tablets IP 40mg",
+        "251TTF014",
+        "08/2024",
+        "07/2026",
+        "M/s. Swiss Garnier Life Sciences, No. 21-23, Industrial Area, Mehatpur, Dist. Una, Himachal Pradesh-174 315. INDIA",
+        "Dissolution",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 53,
+      "raw_row": [
+        "53.",
+        "Dexamethasone Oral Solution USP 0.5mg per 5ml",
+        "LG24-29",
+        "07/2024",
+        "06/2026",
+        "M/s. Om Biomedic Pvt. Ltd..,, Plot No. 68, 69, 82 & 83, Sector - 6A, IIE, SIDCUL, Haridwar-249 403 (U.K.)",
+        "Assay",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 54,
+      "raw_row": [
+        "54.",
+        "Amoxycillin & Potassium Clavulanate Injection IP.",
+        "AB193049A",
+        "05/2023",
+        "04/2025",
+        "M/s. ANG Lifesciences India Ltd., Village: Kishanpura, Nalagarh Road, Tehsil: Baddi, Distt.: Solan, HP-174101",
+        "Assay (Content of Clavulanic Acid)",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 55,
+      "raw_row": [
+        "55.",
+        "Insulin Syringe (U-40 Insulin 1ml Syringe) (Mr. INJECT)",
+        "0123338",
+        "12/2023",
+        "11/2028",
+        "M/s Biomed Healthcare Products Pvt. Ltd.,, Unit-II, Plot No. 62-65, Sector-6A, Sidcul, Haridwar 249403, Uttarakhand, India",
+        "Sterility",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 56,
+      "raw_row": [
+        "56.",
+        "Infusion Set (BMD)",
+        "BIV-020",
+        "08/2024",
+        "07/2027",
+        "M/s.Bhagwati Medicare devices, 8, Maruti Industrial Estate, Nr. Sindhvai Mata Temple, C.T.M.- Ramol Road, Amraiwadi, Ahmedabad- 380026. Gujarat (India)",
+        "Sterility",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 57,
+      "raw_row": [
+        "57.",
+        "Amoxycillin & Potasium Clavulanate Tablets I.P. (IPHA CLAV-375)",
+        "NCP-151",
+        "01/2024",
+        "06/2025",
+        "M/s. Park Pharmaceuticals, Vill. Kalujhanda, Near Nanakpur, Teh. Baddi, Distt. Solan (H.P.)- 174103",
+        "Assay of Clavulanic Acid",
+        "RDTL, Guwahati"
+      ]
+    },
+    {
+      "page": 6,
+      "s_no": 58,
+      "raw_row": [
+        "58.",
+        "Lactulose Solution U.S.P. (Apelact), 200 ml",
+        "AFL-121",
+        "08/2024",
+        "07/2026",
+        "M/s.Apex Formulations Pvt. Ltd., 1276, Raipur, Highway, Dist. Mehsana, Gujarat",
+        "\"Organic impurities\" and",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 59,
+      "raw_row": [
+        "59.",
+        "Lactulose Solution U.S.P. (Reevac), 100 ml",
+        "R23K015",
+        "11/2023",
+        "10/2025",
+        "M/s.Rhombus Pharma Private Limited., 816/1, Rakanpur, Kalol- 382721 (Gujarat)",
+        "\"Organic impurities\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 60,
+      "raw_row": [
+        "60.",
+        "Albendazole Tablets I.P. (DV-BEND 400)",
+        "GTE1974",
+        "07/2024",
+        "06/2026",
+        "M/s Digital Vision, 176, Mauza Ogli, Nahan Road, Kala-Amb, Dist. Sirmour (H.P.)- 173 030.",
+        "\"Dissolution\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 61,
+      "raw_row": [
+        "61.",
+        "Atorvastatin Tablets IP (GATOVAS- 20)",
+        "CT24250423",
+        "06/2024",
+        "05/2026",
+        "M/s.CMG Biotech Pvt. Ltd., (Unit-II), Plot No.58, Phase-III, Industrial Area, Sansarpur Terrace, HP- 176501. Mkt By : Same as manufacturer",
+        "\"Related substances\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 62,
+      "raw_row": [
+        "62.",
+        "Atorvastatin Tablets IP 10 mg",
+        "00 57",
+        "09/2024",
+        "08/2026",
+        "M/s.Hindustan Antibiotics Ltd., Pimpri, Pune- 411 018, India.",
+        "\"Related substances\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 63,
+      "raw_row": [
+        "63.",
+        "Sodium Bicarbonate Tablets U.S.P. 1000 mg",
+        "T-2401309",
+        "01/2024",
+        "12/2025",
+        "M/s.Rivpra Formulation Pvt. Ltd., Plot No.8, Sector-6A, I.I.E., SIDCUL, Haridwar- 249 403 (U.K.). Manufatured for : Pharmaceuticals and Medical Devices Bureau of India (PMBI), 8th Floor, Videocon Tower, Block E-1, Jhandewalan Extension, New Delhi-110 055.",
+        "\"Description\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 64,
+      "raw_row": [
+        "64.",
+        "Pantoprazole Sodium Gastro-Resistant & Domperidone Prolonged-Release Capsules IP (Pengin- DSR Capsules)",
+        "NHD24057D",
+        "01/2024",
+        "12/2025",
+        "M/s.Nest Healthcare Private Limited., Plot No. 300, G.I.D.C., Odhav, Ahmedabad- 382415 (Guj.). India. Mkt By : Megan healthcar, C-403, 4th Floor, Abhishek Complex 1, Opp. Haripura Bus Stop, Babupura, Asarwa, Ahmedabad, Gujarat.",
+        "\"Dissolution for Domperidone\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 65,
+      "raw_row": [
+        "65.",
+        "Sacubitril and Valsartan Tablets 50 mg (SVJAJ 50)",
+        "SVA04H24C",
+        "08/2024",
+        "07/2026",
+        "M/s.Bajaj Healthcare Ltd., R.S. No. 1818, Manjusar- Savli Road, At & Post- Manjusar, Tal. Savli Dist. Vadodra - 391775, Gujarat, India.",
+        "\"Assay\"/ content of \"Sacubitril\" and \"Valsartan\"",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 66,
+      "raw_row": [
+        "66.",
+        "Sodium Chloride Injection I.P. 0.45 % W/V (0.45 NS)",
+        "1266688H",
+        "06/2024",
+        "05/2027",
+        "M/s.Shree KrishnaKeshav Laboratories Ltd., Amraiwadi Road, Ahmedabad- 380 008, India",
+        "Misbranded",
+        "CDTL-Mumbai"
+      ]
+    },
+    {
+      "page": 7,
+      "s_no": 67,
+      "raw_row": [
+        "67.",
+        "Hydro Cellular Foam with ART Principle Antibacterial PU top",
+        "10241283L",
+        "10/2024",
+        "09/2027",
+        "M/s Datt Mediproducts Pvt. Ltd., 52-54 & 63-64,Roz-ka-",
+        "Sterility",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 8,
+      "s_no": 68,
+      "raw_row": [
+        "68.",
+        "Chlorpheniramine Maleate Dextromethorphan Hydrobromide & Phenylephrine HCl Syrup (DXCP)",
+        "ML-012",
+        "08/2024",
+        "07/2026",
+        "M/s Maha Avtar, Health Care Pvt. Ltd., D-22, Sector-17, Kavi Nagar Indl.Area, GZB-201002.",
+        "Identification and Assay of Dextromethorpha n Hydrobromide",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 8,
+      "s_no": 69,
+      "raw_row": [
+        "69.",
+        "Povidone-Iodine Ointment USP",
+        "OI4004A",
+        "09/2024",
+        "08/2026",
+        "M/s. Navkar Lifesciences, Plot No. 76, Lodhi Majra, Industrial Area, Baddi, Distt. Solan (H.P.)",
+        "Assay of Povidone Iodine calculated as available Iodine",
+        "RDTL, Chandigarh"
+      ]
+    },
+    {
+      "page": 8,
+      "s_no": 70,
+      "raw_row": [
+        "70.",
+        "Omega-3 Fatty Acid, Green Tea Extract, Ginkgo Biloba, Ginseng Extract, Grape Seed Extract, Multimineral, Multivitamin with Antioxidants and Trace Elements Softgel Capsules (VRICH-24 CAPSULES)",
+        "RHSD-3149F",
+        "02/2024",
+        "01/2026",
+        "M/s.Ramom Healthcare Pvt.Ltd. (An ISO & GMP Certified Company), Plot No.58, Sector-5, Parwanoo (HP)",
+        "Assay of Magnesium Oxide calculated as elemental Magnesium, Vitamin D3, Ferrous Fumarate, Zinc Oxide calculated as elemental Zinc, Copper Sulphate Pentahydrate calculated as elemental Copper, Manganese Sulphate calculated as elemental Manganese, Calcium Ascorbate, Citrus Bioflavonoids, Vitamin B6, Folic acid",
+        "RDTL, Chandigarh"
+      ]
+    }
+  ],
+  "skipped_sample": [
+    {
+      "page": 1,
+      "reason": "header",
+      "content": [
+        "S.No",
+        "Product/Drug Name",
+        "Batch No.",
+        "Manufacturing Date",
+        "Expiry Date",
+        "Manufactured By",
+        "NSQ Result",
+        "Reported by CDSCO Laboratory"
+      ]
+    },
+    {
+      "page": 2,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "Calcium D-Pantothenate Syrup (B-Complex Syrup)",
+        "",
+        "",
+        "",
+        "",
+        "under Microbial limit test",
+        ""
+      ]
+    },
+    {
+      "page": 3,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "Panthenol and Nicotinamide Injection (Nuropat)",
+        "",
+        "",
+        "",
+        "Nalagarh Road, Distt. Solan (H.P.) 174101",
+        "",
+        ""
+      ]
+    },
+    {
+      "page": 7,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "\"Assay of Lactulose\"",
+        ""
+      ]
+    },
+    {
+      "page": 8,
+      "reason": "non_numbered_note",
+      "content": [
+        "",
+        "Layer with Silicone Gel (Veflfix-S Border (Sacrum))",
+        "",
+        "",
+        "",
+        "Meo Ind. Area, Nuh.Mewat- 122103, Haryana, India",
+        "",
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "CDSCO_NSQ_April_2025_parsed.json": {
+    "total_rows": 60,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_Dec_2024_parsed.json": {
+    "total_rows": 51,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_Feb_2025_parsed.json": {
+    "total_rows": 47,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_Jan_2025_Revised_parsed.json": {
+    "total_rows": 1,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_June_2025_parsed.json": {
+    "total_rows": 55,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_March_2025_parsed.json": {
+    "total_rows": 70,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_May_2025_parsed.json": {
+    "total_rows": 58,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 3,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 2,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [
+        "Not mentioned",
+        "Not mentioned",
+        "Not mentioned"
+      ],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [
+        "Not mentioned",
+        "Not mentioned"
+      ],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "CDSCO_NSQ_Sep_2024_parsed.json": {
+    "total_rows": 49,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "STATE_NSQ_April_2025_parsed.json": {
+    "total_rows": 136,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 3,
+      "exp_date": 3,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [
+        "NIL",
+        "NIL",
+        "NIL"
+      ],
+      "exp_date": [
+        "NIL",
+        "NIL",
+        "NIL"
+      ],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "STATE_NSQ_Dec_2024_parsed.json": {
+    "total_rows": 84,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 2,
+      "exp_date": 2,
+      "mfg_by": 0,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "STATE_NSQ_June_2025_parsed.json": {
+    "total_rows": 130,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 0,
+      "exp_date": 0,
+      "mfg_by": 1,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [],
+      "exp_date": [],
+      "mfg_by": [
+        "N/A"
+      ],
+      "reason": [],
+      "lab": []
+    }
+  },
+  "STATE_NSQ_May_2025_parsed.json": {
+    "total_rows": 128,
+    "placeholders": {
+      "s_no": 0,
+      "drug_name": 0,
+      "batch": 0,
+      "mfg_date": 5,
+      "exp_date": 1,
+      "mfg_by": 1,
+      "reason": 0,
+      "lab": 0
+    },
+    "samples": {
+      "s_no": [],
+      "drug_name": [],
+      "batch": [],
+      "mfg_date": [
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned",
+        "Not Mentioned"
+      ],
+      "exp_date": [],
+      "mfg_by": [
+        "Not Mentioned"
+      ],
+      "reason": [],
+      "lab": []
+    }
+  }
+}
